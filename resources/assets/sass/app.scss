@@ -1,0 +1,21 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.listBtns {
+	float: right;
+}
+
+.action-buttons button{
+  width: 33px;
+  height: 33px;
+  border-radius: 100%;
+}
+
+.action-buttons span {
+  position: relative;
+  bottom: 9px;
+  right: 15px;
+}
+
+.activeStar {
+  color: gold;
+}
